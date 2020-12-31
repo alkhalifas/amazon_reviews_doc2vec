@@ -12,4 +12,4 @@
 - Develop labels for the clusters through topic modelling
 - Implement new clustering algorithms
 
-![plot](./media/tsne_clustered.png)
+![alt text](https://github.com/alkhalifas/amazon_reviews_doc2vec/blob/master/media/tsne_clustered.png?raw=true)
